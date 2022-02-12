@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subnautica Enhanced Sleep", "Subnautica Enhanced Sleep.csproj", "{ED37B33D-26F9-42B4-A7F3-9D2D1404B79C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		API|Any CPU = API|Any CPU
+		Beta|Any CPU = Beta|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED37B33D-26F9-42B4-A7F3-9D2D1404B79C}.API|Any CPU.ActiveCfg = API|Any CPU
+		{ED37B33D-26F9-42B4-A7F3-9D2D1404B79C}.API|Any CPU.Build.0 = API|Any CPU
+		{ED37B33D-26F9-42B4-A7F3-9D2D1404B79C}.Beta|Any CPU.ActiveCfg = Beta|Any CPU
+		{ED37B33D-26F9-42B4-A7F3-9D2D1404B79C}.Beta|Any CPU.Build.0 = Beta|Any CPU
+		{ED37B33D-26F9-42B4-A7F3-9D2D1404B79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED37B33D-26F9-42B4-A7F3-9D2D1404B79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED37B33D-26F9-42B4-A7F3-9D2D1404B79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED37B33D-26F9-42B4-A7F3-9D2D1404B79C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8F3E850-5002-4ED6-A91E-935A63B76251}
+	EndGlobalSection
+EndGlobal
