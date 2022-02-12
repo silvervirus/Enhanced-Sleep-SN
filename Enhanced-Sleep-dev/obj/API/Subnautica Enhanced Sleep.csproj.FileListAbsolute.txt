@@ -1,0 +1,4 @@
+C:\Users\Dorian Naujokat\source\repos\Subnautica Mods\Subnautica Enhanced Sleep\bin\API\mod.json
+C:\Users\Dorian Naujokat\source\repos\Subnautica Mods\Subnautica Enhanced Sleep\bin\API\SubnauticaEnhancedSleep.dll
+C:\Users\Dorian Naujokat\source\repos\Subnautica Mods\Subnautica Enhanced Sleep\obj\API\Subnautica Enhanced Sleep.csproj.CoreCompileInputs.cache
+C:\Users\Dorian Naujokat\source\repos\Subnautica Mods\Subnautica Enhanced Sleep\obj\API\SubnauticaEnhancedSleep.dll
